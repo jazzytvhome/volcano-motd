@@ -1,0 +1,12 @@
+{
+  "name": "volcano-live-motd",
+  "version": "1.0.0",
+  "description": "Live MOTD editor for Volcano - By Light",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

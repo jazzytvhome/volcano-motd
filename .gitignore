@@ -1,0 +1,4 @@
+node_modules/
+motd.json
+.env
+*.log
