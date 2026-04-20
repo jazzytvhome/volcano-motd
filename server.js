@@ -56,6 +56,5 @@ app.post("/motd", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Live MOTD running on http://localhost:${PORT}`);
-  console.log(`Admin password: ${ADMIN_PASSWORD}`);
+  console.log(`Live MOTD running on port ${PORT}`);
 });
